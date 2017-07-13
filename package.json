@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/yeti-detective/yeti_fcc_request-header/issues"
   },
-  "homepage": "https://github.com/yeti-detective/yeti_fcc_request-header#readme"
+  "homepage": "https://github.com/yeti-detective/yeti_fcc_request-header#readme",
+  "engines": {
+    "node": "6.11.1"
+  }
 }
